@@ -52,6 +52,24 @@ export default function Home() {
                 🎯 Lección 5: Formularios (Reactive Forms)
               </Link>
               <Link
+                href="/context-demo"
+                className="text-indigo-600 dark:text-indigo-400 hover:underline font-bold text-lg"
+              >
+                🎯 Lección 6: Context API (Services)
+              </Link>
+              <Link
+                href="/hooks-demo"
+                className="text-teal-600 dark:text-teal-400 hover:underline font-bold text-lg"
+              >
+                🎯 Lección 7: Custom Hooks
+              </Link>
+              <Link
+                href="/pwa"
+                className="text-emerald-600 dark:text-emerald-400 hover:underline font-bold text-lg"
+              >
+                📱 PWA - Progressive Web App
+              </Link>
+              <Link
                 href="/about"
                 className="text-blue-600 dark:text-blue-400 hover:underline"
               >
