@@ -46,6 +46,12 @@ export default function Home() {
                 🎯 Lección 4: Fetch de Datos (HttpClient)
               </Link>
               <Link
+                href="/forms"
+                className="text-pink-600 dark:text-pink-400 hover:underline font-bold text-lg"
+              >
+                🎯 Lección 5: Formularios (Reactive Forms)
+              </Link>
+              <Link
                 href="/about"
                 className="text-blue-600 dark:text-blue-400 hover:underline"
               >
