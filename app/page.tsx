@@ -40,6 +40,12 @@ export default function Home() {
                 🎯 Lección 3: Props (Input/Output)
               </Link>
               <Link
+                href="/fetch"
+                className="text-orange-600 dark:text-orange-400 hover:underline font-bold text-lg"
+              >
+                🎯 Lección 4: Fetch de Datos (HttpClient)
+              </Link>
+              <Link
                 href="/about"
                 className="text-blue-600 dark:text-blue-400 hover:underline"
               >
