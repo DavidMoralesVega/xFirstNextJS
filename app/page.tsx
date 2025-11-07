@@ -31,7 +31,13 @@ export default function Home() {
                 href="/demo"
                 className="text-green-600 dark:text-green-400 hover:underline font-bold text-lg"
               >
-                🎯 Demo: Estado y Componentes (Lección 2)
+                🎯 Lección 2: Estado y Componentes
+              </Link>
+              <Link
+                href="/props"
+                className="text-purple-600 dark:text-purple-400 hover:underline font-bold text-lg"
+              >
+                🎯 Lección 3: Props (Input/Output)
               </Link>
               <Link
                 href="/about"
